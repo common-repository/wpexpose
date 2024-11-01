@@ -1,0 +1,156 @@
+# Copyright (C) 2016 R Debug
+# This file is distributed under the same license as the R Debug package.
+msgid ""
+msgstr ""
+"Project-Id-Version: R Debug \n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/src\n"
+"POT-Creation-Date: 2016-08-22 21:08:10+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: wp-expose-admin-page-config.php:21
+msgid "WPExpose configuration"
+msgstr ""
+
+#: wp-expose-admin-page-config.php:68
+msgid "General settings"
+msgstr ""
+
+#: wp-expose-admin-page-config.php:80
+msgid "Clean table"
+msgstr ""
+
+#: wp-expose-admin-page-config.php:85
+msgid "Contact email"
+msgstr ""
+
+#: wp-expose-admin-page-config.php:88
+msgid "WPExpose will send attack notifications to this email"
+msgstr ""
+
+#: wp-expose-admin-page-config.php:92
+msgid "IPS active"
+msgstr ""
+
+#: wp-expose-admin-page-config.php:97
+msgid "By default, the attack will be recorded and the attacker will be redirect to home page. Check this box if you want stop the malicious request and not redirected it."
+msgstr ""
+
+#: wp-expose-admin-page-config.php:99
+msgid "ModSecurity is enabled so we had disabled IPS mode. If you want enable again check this box but could be performance problems."
+msgstr ""
+
+#: wp-expose-admin-page-config.php:104
+msgid "Threshold"
+msgstr ""
+
+#: wp-expose-admin-page-config.php:107
+msgid "Every attack has a dangerousness level. If this level overcomes threshold's value the attack is recorded and an email is sent to the \"Contact email\"."
+msgstr ""
+
+#: wp-expose-admin-page-config.php:111 wp-expose-admin-page-config.php:149
+msgid "IPBan active"
+msgstr ""
+
+#: wp-expose-admin-page-config.php:116
+msgid "Ban an IP if it attacks more then 3 times on 1 minute or once in a minute during 10 minutes"
+msgstr ""
+
+#: wp-expose-admin-page-config.php:121 wp-expose-admin-page-config.php:158
+msgid "Save"
+msgstr ""
+
+#: wp-expose-admin-page-config.php:147
+msgid "Options"
+msgstr ""
+
+#: wp-expose-admin-page-config.php:182
+msgid "Events table has been emptied"
+msgstr ""
+
+#: wp-expose-admin-page-config.php:182
+msgid "Events table has not been emptied"
+msgstr ""
+
+#: wp-expose-admin-page-ipban.php:10 wp-expose.php:40
+msgid "IP Banned"
+msgstr ""
+
+#: wp-expose-admin-page-ipban.php:11 wp-expose-admin-page.php:10
+msgid "Export"
+msgstr ""
+
+#: wp-expose-admin-page-ipban.php:13
+msgid "IPs banned by WP Expose"
+msgstr ""
+
+#: wp-expose-admin-page-ipban.php:69
+msgid "Yes"
+msgstr ""
+
+#: wp-expose-admin-page.php:9
+msgid "Event list"
+msgstr ""
+
+#: wp-expose-admin-page.php:12
+msgid "Security events detected by WP Expose"
+msgstr ""
+
+#: wp-expose-admin-page.php:82
+msgid "Download events"
+msgstr ""
+
+#: wp-expose-dashboard.php:18 wp-expose-dashboard.php:21
+msgid "You have security events"
+msgstr ""
+
+#: wp-expose-dashboard.php:18 wp-expose-dashboard.php:24
+msgid "You haven't security events"
+msgstr ""
+
+#: wp-expose-widget.php:13 wp-expose.php:31
+msgid "WP Expose"
+msgstr ""
+
+#: wp-expose-widget.php:19
+msgid "Hello"
+msgstr ""
+
+#: wp-expose.php:30
+msgid "WP Expose attacks detected"
+msgstr ""
+
+#: wp-expose.php:34
+msgid "WP Expose Config"
+msgstr ""
+
+#: wp-expose.php:35
+msgid "Configuration"
+msgstr ""
+
+#: wp-expose.php:39
+msgid "WP Expose IP Banned"
+msgstr ""
+
+#: wp-expose.php:103 wp-expose.php:107
+msgid "IP banned"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "R Debug"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Set of dump helpers for debug."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Andrey \"Rarst\" Savchenko"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.rarst.net/"
+msgstr ""
